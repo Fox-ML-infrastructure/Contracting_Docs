@@ -19,8 +19,6 @@ No billable work will begin until all business formation and insurance requireme
 
 ## 2. Steps in Progress
 
-The following items are actively being set up:
-
 ### 2.1 LLC Formation
 I am in the process of forming a single-member LLC to ensure:
 - proper legal structure  
@@ -35,14 +33,24 @@ An Employer Identification Number (EIN) will be obtained to support:
 - business bank account setup  
 
 ### 2.3 Business Insurance
-I am currently preparing to obtain:
+I am preparing to obtain:
 - General Liability coverage  
 - Professional Liability / Errors & Omissions (E&O) coverage  
 
-These policies are required before beginning any paid ML, software, or infrastructure consulting.
+These policies are required before beginning any paid ML, software, or systems consulting.
 
 ### 2.4 Business Banking
-A dedicated business bank account will be opened once LLC formation and EIN issuance are completed.
+A dedicated business bank account will be opened once the LLC formation and EIN issuance are completed.
+
+### 2.5 Business Email (Planned Upgrade)
+A dedicated, domain-backed business email (e.g., `@companyname.com`) will be created **once the LLC and business banking are finalized**.  
+This ensures:
+- proper branding  
+- separation of personal and business communication  
+- compliance with enterprise client expectations  
+- secure communication channels  
+
+Until then, professional communication occurs through a temporary address.
 
 ---
 
@@ -52,12 +60,12 @@ Because these steps depend on state processing times and insurer availability, e
 
 Typical ranges are:
 
-- **LLC formation:** 1–10 business days depending on state and filing speed  
+- **LLC formation:** 1–10 business days  
 - **EIN:** immediate to 1–2 weeks  
-- **Insurance underwriting:** same day to 72 hours once application is submitted  
+- **Insurance underwriting:** same day to 72 hours after application  
 - **Business bank account:** same day once LLC and EIN are finalized  
 
-I will provide updates as each milestone is completed.
+Progress updates will be provided as each milestone is completed.
 
 ---
 
@@ -65,23 +73,24 @@ I will provide updates as each milestone is completed.
 
 To ensure full compliance and protection for both client and contractor:
 
-**No billable or contractually binding work will begin until all of the following are complete:**
+**No billable or contractually binding work will begin until the following are complete:**
 
 1. LLC formed  
 2. EIN issued  
 3. Business insurance active  
 4. Business bank account established  
-5. Master Consulting Agreement (MCA) signed  
-6. Statement of Work (SOW) approved  
-7. Upfront payment or retainer (if applicable) processed  
+5. Business email (if required by client)  
+6. Master Consulting Agreement (MCA) signed  
+7. Statement of Work (SOW) approved  
+8. Upfront payment or retainer (if applicable) processed  
 
-This ensures proper legal, financial, and risk management structures are in place before engagement begins.
+This ensures proper legal, financial, and risk-management structures before engagement begins.
 
 ---
 
 ## 5. Purpose of This Document
 
-This notice exists to provide transparency to prospective clients evaluating my services.  
+This notice provides transparency to prospective clients evaluating my services.  
 It ensures alignment and avoids misunderstandings during the early stages of discussion.
 
-Questions regarding business formation, insurance, or compliance can be addressed upon request.
+Questions regarding business formation, insurance, or compliance are welcome and will be addressed upon request.
