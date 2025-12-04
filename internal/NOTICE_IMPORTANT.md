@@ -10,9 +10,9 @@ As of today:
 	•	My LLC is officially formed and active in the State of Alabama. ✓
 	•	My EIN has been issued. ✓
 	•	My business bank account is open and active. ✓
-	•	I do not yet have business insurance (General Liability or Professional Liability/E&O), which is the final remaining compliance requirement.
+	•	I do not currently maintain business insurance (General Liability or Professional Liability/E&O). Insurance will be obtained if a client requires it as part of their procurement or compliance requirements. Until then, maintaining insurance without active client requirements is not feasible.
 
-No billable work will begin until business insurance is obtained.
+Work can proceed once agreements are in place. Insurance will be obtained if mandated by client requirements.
 
 ⸻
 
@@ -45,11 +45,11 @@ A dedicated business bank account has been opened and is active, using:
 
 This account is used exclusively for consulting transactions.
 
-2.4 Business Insurance — In Progress
+2.4 Business Insurance — Client-Dependent
 
-I am currently obtaining:
-	•	General Liability coverage
-	•	Professional Liability / Errors & Omissions (E&O) coverage
+Business insurance (General Liability and Professional Liability / Errors & Omissions) will be obtained if a client requires it as part of their procurement process or compliance requirements.
+
+Until a client specifically requires insurance, maintaining coverage without active client requirements is not feasible. If insurance is required, it will be obtained before work begins on that engagement.
 
 2.5 Business Email — Planned Upgrade
 
@@ -65,9 +65,9 @@ Until then, communication will continue through a temporary address.
 3. Expected Completion Window
 	•	EIN issuance: ✓ Completed
 	•	Business bank account: ✓ Completed
-	•	Insurance underwriting: In progress (typically same day to 72 hours after application)
+	•	Insurance underwriting: Will be initiated if/when a client requires it (typically same day to 72 hours after application)
 
-Updates will be provided when insurance coverage is obtained.
+Insurance will be obtained on a per-engagement basis if required by client procurement or compliance requirements.
 
 ⸻
 
@@ -77,11 +77,13 @@ To ensure compliance and protection for both client and contractor, no billable 
 	1.	LLC active — ✔ Completed
 	2.	EIN issued — ✔ Completed
 	3.	Business bank account open — ✔ Completed
-	4.	Business insurance active — In progress
+	4.	Business insurance active — Will be obtained if required by client
 	5.	Business email (if required)
 	6.	Master Consulting Agreement (MCA) signed
 	7.	Statement of Work (SOW) approved
 	8.	Upfront payment or retainer (if applicable) processed
+
+If a client requires business insurance as part of their procurement or compliance requirements, insurance will be obtained before work begins on that engagement.
 
 ⸻
 

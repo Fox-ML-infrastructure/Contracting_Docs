@@ -23,13 +23,13 @@ During this stage, I can help clients understand whether their project aligns wi
 
 Although I am available for preliminary discussions, the following restrictions apply:
 
-- **No formal agreements** can be signed yet  
-- **No Statements of Work (SOWs)** will be drafted or delivered  
-- **No billable work** will be performed  
-- **No commitments** will be finalized  
-- **No deliverables or development** will begin  
+- **No formal agreements** can be signed until MCA and SOW are finalized  
+- **No Statements of Work (SOWs)** will be drafted or delivered until initial discussions are complete  
+- **No billable work** will be performed until agreements are in place  
+- **No commitments** will be finalized until scope is agreed upon  
+- **No deliverables or development** will begin until agreements are signed  
 
-This is to ensure that all engagements occur under proper legal and insurance protection.
+If a client requires business insurance, it will be obtained before work begins on that engagement.
 
 ---
 
@@ -41,12 +41,12 @@ I have completed the following requirements:
 - EIN registration — ✓ Completed  
 - Business bank account setup — ✓ Completed  
 
-The following remains pending:
+Business Insurance:
 
-- General Liability insurance — In progress  
-- Professional Liability / Errors & Omissions (E&O) insurance — In progress  
+- General Liability insurance — Will be obtained if a client requires it  
+- Professional Liability / Errors & Omissions (E&O) insurance — Will be obtained if a client requires it  
 
-Business insurance must be obtained before any contractually binding or billable work begins.
+Until a client specifically requires insurance as part of their procurement or compliance requirements, maintaining insurance without active client requirements is not feasible. If insurance is required for an engagement, it will be obtained before work begins.
 
 Further detail on this process is provided in the separate **Business Formation and Insurance Status** document.
 
@@ -69,17 +69,17 @@ This phase is strictly exploratory and non-contractual.
 
 ## 5. What I *Cannot* Do Yet
 
-Until all compliance steps are complete, I cannot:
+Until agreements are finalized, I cannot:
 
-- Enter a legally binding contract  
+- Enter a legally binding contract (MCA and SOW must be signed first)  
 - Begin engineering work  
 - Access proprietary data  
 - Deliver analysis or code  
-- Provide pricing quotes specific to a client  
-- Commit to timelines or deliverables  
-- Start a Statement of Work process  
+- Provide pricing quotes specific to a client (preliminary estimates are available)  
+- Commit to timelines or deliverables (scope discussions first)  
+- Start a Statement of Work process (initial discovery required)  
 
-These activities require full insurance and legal structure in place.
+If a client requires business insurance, it will be obtained before work begins on that engagement.
 
 ---
 
@@ -91,14 +91,14 @@ The following steps are complete:
 2. EIN received — ✓  
 3. Business bank account active — ✓  
 
-Once business insurance (General Liability + E&O coverage) is issued, I will be prepared to:
+I am prepared to:
 
 - conduct formal scoping meetings  
 - prepare a Statement of Work  
 - finalize Master Consulting Agreements  
 - begin billable engineering or research work  
 
-A separate notice will be posted when full readiness is reached.
+If a client requires business insurance (General Liability + E&O coverage), it will be obtained before work begins on that engagement. Insurance will be obtained on a per-engagement basis if required by client procurement or compliance requirements.
 
 ---
 
@@ -111,6 +111,6 @@ At this stage, I am open to:
 - determining fit  
 - preparing for future engagements  
 
-However, **no formal or billable work** will begin until business insurance coverage is obtained.
+However, **no formal or billable work** will begin until Master Consulting Agreement (MCA) and Statement of Work (SOW) are finalized. If a client requires business insurance, it will be obtained before work begins on that engagement.
 
-Clients are welcome to initiate early conversations, and I will provide updates as each compliance milestone is completed.
+Clients are welcome to initiate early conversations. Insurance will be obtained on a per-engagement basis if required by client procurement or compliance requirements.

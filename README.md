@@ -13,9 +13,9 @@ As of now:
 - Primary ML/infra engineering product line: **Fox-v1-infra**.  
 - **EIN has been issued.** ✓  
 - **Business bank account is open and active.** ✓  
-- **Business insurance (General Liability + E&O) is pending** — will be acquired to complete compliance requirements.  
+- **Business insurance (General Liability + E&O)** — Will be obtained if a client requires it. Until then, it is not feasible to maintain insurance without active client requirements.
 
-No billable or contractually binding work will begin until business insurance is obtained and all compliance requirements—insurance and agreement documents—are completed.
+Work can proceed once the Master Consulting Agreement (MCA) and Statement of Work (SOW) are approved. Insurance will be obtained if a client's procurement or compliance requirements mandate it.
 
 ---
 
@@ -100,7 +100,7 @@ These demonstrate engineering style, architectural decisions, and domain experti
 3. **For licensing inquiries**, see `legal/SUBSCRIPTIONS.md`.  
 4. **If the project appears aligned**, schedule an introductory meeting to discuss goals and constraints.  
 5. **A customized Statement of Work (SOW)** will be drafted based on project requirements.  
-6. **Work begins** once the SOW and Master Consulting Agreement (MCA) are approved and business insurance is obtained.
+6. **Work begins** once the SOW and Master Consulting Agreement (MCA) are approved. Business insurance will be obtained if required by the client.
 
 ---
 
