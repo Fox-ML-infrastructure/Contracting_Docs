@@ -1,96 +1,92 @@
-# Business Formation and Insurance Status
+Business Formation and Insurance Status
 
-This document provides a clear statement of my current business formation status and the steps I am actively completing to become fully compliant for paid consulting work.
+This document provides a clear statement of my current business formation status and the remaining steps I am completing to ensure full compliance for paid consulting work.
 
----
+⸻
 
-## 1. Current Status
+1. Current Status
 
-At this time:
+As of today:
+	•	My LLC is officially formed and active in the State of Alabama.
+	•	My EIN application is submitted and currently pending issuance (typical IRS processing: 1–4 days).
+	•	My business bank account will be opened immediately once the EIN is issued.
+	•	I do not yet have business insurance (General Liability or Professional Liability/E&O), which will be obtained after banking is established.
 
-- My **LLC has been filed** and is currently being processed by the state.  
-- My **EIN has been filed** and will be issued shortly (typical issuance time: 1–4 days).  
-- I do **not** yet have business insurance (General Liability or Professional Liability / E&O).
+No billable work will begin until the remaining compliance steps are complete.
 
-Business formation is now in its final stage. No billable work will begin until insurance, banking, and compliance steps are completed.
+⸻
 
----
+2. Steps in Progress
 
-## 2. Steps in Progress
+2.1 LLC Formation — Completed
 
-### 2.1 LLC Formation — *Filed, Awaiting Confirmation*
-My single-member LLC has been submitted and is currently undergoing state processing.  
-Once approved, this will provide:
-- proper legal structure  
-- personal liability protection  
-- clean invoicing and contracting  
-- eligibility for insurance and business banking  
+My single-member LLC, Fox ML Infrastructure LLC, has been successfully formed and is now active.
 
-### 2.2 EIN Registration — *Filed, Pending Issuance*
-My Employer Identification Number (EIN) application has been filed with the IRS.  
-Typical completion time is **1–4 days**, depending on IRS processing.
+This provides:
+	•	personal liability protection
+	•	proper business structure
+	•	clean invoicing and contracting
+	•	eligibility for insurance and business banking
 
-The EIN will support:
-- tax reporting  
-- invoicing  
-- business bank account setup  
+2.2 EIN Registration — Filed, Pending Issuance
 
-### 2.3 Business Insurance — *Next Step*
-Once the LLC and EIN are finalized, I will obtain:
-- General Liability coverage  
-- Professional Liability / Errors & Omissions (E&O) coverage  
+My Employer Identification Number (EIN) application has been filed and is awaiting IRS processing.
 
-### 2.4 Business Banking — *Pending EIN*
-A dedicated business bank account will be opened as soon as:
-- LLC documentation is received  
-- EIN is issued  
+Once issued, it will enable:
+	•	business bank account setup
+	•	tax reporting
+	•	formal invoicing
 
-This account will be used for all consulting transactions.
+2.3 Business Banking — Pending EIN
 
-### 2.5 Business Email (Planned Upgrade)
-A dedicated, domain-backed business email (e.g., `@companyname.com`) will be created after banking is established to ensure:
-- proper branding  
-- separation of personal/business communication  
-- compliance with enterprise expectations  
-- secure channels  
+A dedicated business bank account will be opened immediately once my EIN is issued, using:
+	•	Articles of Organization
+	•	EIN documentation
 
-Until then, communication occurs through a temporary address.
+This account will be used exclusively for consulting transactions.
 
----
+2.4 Business Insurance — Next Step After Banking
 
-## 3. Expected Completion Window
+Once the business bank account is active, I will obtain:
+	•	General Liability coverage
+	•	Professional Liability / Errors & Omissions (E&O) coverage
 
-Current official estimates:
+2.5 Business Email — Planned Upgrade
 
-- **LLC formal approval:** typically 1–10 business days from filing  
-- **EIN:** typically 1–4 days from filing  
-- **Insurance underwriting:** same day to 72 hours after application  
-- **Business bank account:** same day once LLC documents & EIN are available  
+After banking is finalized, a dedicated domain-backed business email (e.g., @foxinfra.com or similar) will be created to ensure:
+	•	professional branding
+	•	separation of personal/business communication
+	•	enterprise-grade expectations
+
+Until then, communication will continue through a temporary address.
+
+⸻
+
+3. Expected Completion Window
+	•	EIN issuance: 1–4 business days
+	•	Business bank account: same day once EIN is issued
+	•	Insurance underwriting: same day to 72 hours after application
 
 Updates will be provided as each milestone is completed.
 
----
+⸻
 
-## 4. Work Start Policy
+4. Work Start Policy
 
-To ensure full compliance and protection for both client and contractor:
+To ensure compliance and protection for both client and contractor, no billable or contractually binding work will begin until the following are complete:
+	1.	LLC active — ✔ Completed
+	2.	EIN issued
+	3.	Business bank account open
+	4.	Business insurance active
+	5.	Business email (if required)
+	6.	Master Consulting Agreement (MCA) signed
+	7.	Statement of Work (SOW) approved
+	8.	Upfront payment or retainer (if applicable) processed
 
-**No billable or contractually binding work will begin until the following are complete:**
+⸻
 
-1. LLC formally approved  
-2. EIN issued  
-3. Business insurance active  
-4. Business bank account established  
-5. Business email (if required by client)  
-6. Master Consulting Agreement (MCA) signed  
-7. Statement of Work (SOW) approved  
-8. Upfront payment or retainer (if applicable) processed  
+5. Purpose of This Document
 
----
-
-## 5. Purpose of This Document
-
-This notice provides transparency to prospective clients evaluating my services.  
-It ensures alignment and avoids misunderstandings during the early stages of discussion.
+This notice provides transparency to prospective clients evaluating my services and ensures alignment during early engagement.
 
 Questions regarding business formation, insurance, or compliance are welcome and will be addressed upon request.
