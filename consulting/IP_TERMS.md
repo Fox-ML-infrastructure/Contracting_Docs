@@ -11,7 +11,7 @@ It supplements and standardizes IP-related language used in Statements of Work a
 Any software, frameworks, tools, or methodologies developed by Jennifer Lewis prior to the engagement remain the exclusive property of Jennifer Lewis.  
 This includes, but is not limited to:
 
-- Aurora-v2 Pipeline  
+- Fox ML Infrastructure (Fox-v1-infra) system and pipelines  
 - Model zoo architectures  
 - Validation frameworks  
 - Internal research tooling  

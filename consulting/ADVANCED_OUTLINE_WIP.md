@@ -2,9 +2,9 @@ ADVANCED MODULE CONTRACT
 
 Last Updated: [Insert Date]
 
-This document outlines the terms, expectations, and conditions for the development of Advanced Modules for the Aurora Framework, including (but not limited to) NLP integrations, alt-data pipelines, custom model extensions, enterprise-grade execution logic, or any high-complexity subsystem requested by a client.
+This document outlines the terms, expectations, and conditions for the development of Advanced Modules for the Fox ML Infrastructure (Fox-v1-infra) system, including (but not limited to) NLP integrations, alt-data pipelines, custom model extensions, enterprise-grade execution logic, or any high-complexity subsystem requested by a client.
 
-These terms apply only to advanced, specialized, or bespoke development work and do not apply to the open-source Aurora core.
+These terms apply only to advanced, specialized, or bespoke development work and do not apply to the core Fox ML Infrastructure system.
 
 ⸻
 
@@ -146,7 +146,7 @@ Delivery format will be agreed upon before development begins.
 8. Intellectual Property
 
 Unless explicitly negotiated otherwise:
-	•	Aurora core remains © the creator.
+	•	Fox ML Infrastructure (Fox-v1-infra) core remains © the creator.
 	•	Advanced Modules developed under contract remain © the creator until final payment is received.
 	•	Upon final payment, the client receives a non-exclusive license to use the completed module internally.
 	•	Redistribution, resale, or external deployment requires a separate licensing agreement.

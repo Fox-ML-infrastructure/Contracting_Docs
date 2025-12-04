@@ -69,4 +69,4 @@ Subject: Consulting Inquiry — [Your Organization Name]
 - [`CONSULTING_POLICY.md`](CONSULTING_POLICY.md) — Professional terms, rates, and policies
 - [`CONSULTING_PRICING.md`](CONSULTING_PRICING.md) — Detailed pricing tiers and rate structure
 - [`MASTER_CONSULTING_AGREEMENT.md`](MASTER_CONSULTING_AGREEMENT.md) — Standard agreement framework
-- [`STATEMENT_OF_WORK.md`](STATEMENT_OF_WORK.md) — SOW template
+- [`STATEMENT_OF_WORK_TEMPLATE.md`](STATEMENT_OF_WORK_TEMPLATE.md) — SOW template
