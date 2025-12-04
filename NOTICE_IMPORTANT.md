@@ -1,0 +1,87 @@
+# Business Formation and Insurance Status
+
+This document provides a clear statement of my current business formation status and the steps I am actively completing to become fully compliant for paid consulting work.
+
+---
+
+## 1. Current Status
+
+At this time:
+
+- I do **not** currently have an active LLC or formal business entity.
+- I do **not** yet have business insurance (General Liability or Professional Liability / E&O).
+
+These items are in progress and are being set up as part of my transition into formal consulting and contracting work.
+
+No billable work will begin until all business formation and insurance requirements are fully completed.
+
+---
+
+## 2. Steps in Progress
+
+The following items are actively being set up:
+
+### 2.1 LLC Formation
+I am in the process of forming a single-member LLC to ensure:
+- proper legal structure  
+- personal liability protection  
+- clean invoicing and contracting  
+- eligibility for insurance and business banking  
+
+### 2.2 EIN Registration
+An Employer Identification Number (EIN) will be obtained to support:
+- tax reporting  
+- invoicing  
+- business bank account setup  
+
+### 2.3 Business Insurance
+I am currently preparing to obtain:
+- General Liability coverage  
+- Professional Liability / Errors & Omissions (E&O) coverage  
+
+These policies are required before beginning any paid ML, software, or infrastructure consulting.
+
+### 2.4 Business Banking
+A dedicated business bank account will be opened once LLC formation and EIN issuance are completed.
+
+---
+
+## 3. Expected Completion Window
+
+Because these steps depend on state processing times and insurer availability, exact dates cannot be guaranteed.
+
+Typical ranges are:
+
+- **LLC formation:** 1–10 business days depending on state and filing speed  
+- **EIN:** immediate to 1–2 weeks  
+- **Insurance underwriting:** same day to 72 hours once application is submitted  
+- **Business bank account:** same day once LLC and EIN are finalized  
+
+I will provide updates as each milestone is completed.
+
+---
+
+## 4. Work Start Policy
+
+To ensure full compliance and protection for both client and contractor:
+
+**No billable or contractually binding work will begin until all of the following are complete:**
+
+1. LLC formed  
+2. EIN issued  
+3. Business insurance active  
+4. Business bank account established  
+5. Master Consulting Agreement (MCA) signed  
+6. Statement of Work (SOW) approved  
+7. Upfront payment or retainer (if applicable) processed  
+
+This ensures proper legal, financial, and risk management structures are in place before engagement begins.
+
+---
+
+## 5. Purpose of This Document
+
+This notice exists to provide transparency to prospective clients evaluating my services.  
+It ensures alignment and avoids misunderstandings during the early stages of discussion.
+
+Questions regarding business formation, insurance, or compliance can be addressed upon request.
