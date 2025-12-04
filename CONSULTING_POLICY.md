@@ -2,169 +2,214 @@
 
 This document outlines the professional terms under which I provide machine learning, systems engineering, and quantitative research consulting services to organizations.
 
-**These terms apply to all clients unless a written contract (SOW/MSA) states otherwise.**
+**These terms apply to all clients unless a written contract (SOW/MSA) explicitly states otherwise.**
 
-I work exclusively as an **independent contractor** with organizations, institutions, and enterprises. All engagements are conducted on a contract basis with clearly defined deliverables and professional boundaries.
+I operate strictly as an **independent contractor**. All engagements are conducted on a contract basis with clearly defined deliverables, timelines, and boundaries.
 
-⸻
+---
 
-1. Professional Scope
+## 1. Professional Scope
 
 I provide consulting in the following areas:
-	•	Machine learning pipeline design
-	•	Data processing and leakage-safe validation
-	•	Research-oriented financial modeling
-	•	C++/Python hybrid systems
-	•	High-performance computing workflows
-	•	Architecture and systems design
-	•	Code review, audit, and optimization
-	•	Custom ML infrastructure development
 
-Work is performed remotely, on a contract basis, according to clearly defined deliverables.
+- Machine learning pipeline design  
+- Data processing, leakage-safe validation, and research methodology  
+- Quantitative modeling and financial signal research  
+- C++/Python hybrid systems  
+- High-performance computing workflows  
+- Architecture and systems design  
+- Code review, audit, and optimization  
+- Custom ML infrastructure development
 
-I do not accept W-2 employment arrangements.
+Work is performed **remotely** and delivered according to a written Statement of Work (SOW).
 
-⸻
+I do **not** accept W-2 employment arrangements.
 
-2. Client Neutrality
+---
+
+## 2. Client Neutrality
 
 I work with any organization that respects:
-	•	contractual boundaries and professional agreements
-	•	professional communication and business conduct
-	•	independent contractor status and work autonomy
-	•	agreed-upon scope and deliverables
-	•	payment terms and invoicing processes
 
-I do not make decisions based on client industry, institutional type, political alignment, or mission—as long as the engagement remains professional, lawful, and does not interfere with my personal life or other commitments.
+- contractual boundaries  
+- independent contractor status  
+- agreed-upon scope and deliverables  
+- professional conduct and communication  
+- payment terms and invoicing processes  
 
-⸻
+Client industry, institutional type, or mission does not affect eligibility as long as the engagement remains lawful and professional.
 
-3. Rates
+---
 
-Base Rate
+## 3. Rates
 
-$300/hr
-This is the minimum billing rate for all consulting work.
+### Base Rate  
+**$300/hr**  
+Minimum billing rate for all consulting work.
 
-Scope-Dependent Rates
+### Scope-Dependent Rates  
+Projects involving:
 
-Complex projects involving:
-	•	full pipeline architecture
-	•	C++ inference engines
-	•	HFT-oriented ML systems
-	•	urgent turnarounds
-	•	long-horizon research
-	•	high-throughput compute workflows
+- full ML pipeline architecture  
+- C++ inference engines  
+- HFT-oriented ML systems  
+- urgent or time-sensitive work  
+- high-throughput compute workflows  
+- long-horizon research  
 
-may be billed at a higher rate depending on required depth and time sensitivity.
+may be billed at a higher rate depending on depth and complexity.
 
-Retainers & On-Call Availability
+### Retainers & On-Call Availability  
 
-24-7 availability or priority response requires a retainer separate from hourly billing.
-	•	On-call retainers start at $5,000–$15,000/month
-	•	Emergency work is billed at 2×–4× the standard rate
+- 24/7 availability or priority response requires a retainer.  
+- **On-call retainers start at $5,000–$15,000/month.**  
+- Emergency/critical path work is billed at **2×–4×** the standard rate.
 
-No client is entitled to off-hours availability without a retainer.
+### Payment Terms  
 
-Payment Terms
+- Invoices issued monthly or at milestones  
+- Net 15 days  
+- Late payments accrue 1.5% interest per month  
+- Work may be paused if payment becomes overdue  
 
-Standard payment terms (may be adjusted in SOW):
-	•	Invoices issued monthly or at milestones
-	•	Net 15 days payment terms
-	•	Late payments accrue interest at 1.5% per month
-	•	Consultant may pause work if payments become overdue
+---
 
-⸻
+## 4. Work Model
 
-4. Work Model
+### Remote-Only  
+All work is conducted remotely. Meetings are held via video call or written channels.
 
-Remote Only
+### Defined Deliverables  
+Each engagement requires an SOW specifying:
 
-All work is conducted remotely.
-Meetings are held via video call or written channels.
+- deliverables  
+- milestones  
+- rate  
+- timelines  
+- communication expectations  
 
-Defined Deliverables
+### No Open-Ended Scope Creep  
+Any new requests, unplanned features, or scope changes are billed at the current hourly rate or added to a revised SOW.
 
-Every project requires a written Statement of Work (SOW) covering:
-	•	deliverables
-	•	milestones
-	•	rate
-	•	timelines
-	•	communication expectations
+---
 
-No Open-Ended “Scope Creep”
+## 4.1 Technical Autonomy & Implementation Independence
 
-Unplanned work, feature requests, or expansions are billed at the current hourly rate or added to a revised SOW.
+To maintain engineering quality, velocity, and reproducibility, the following autonomy principles apply:
 
-⸻
+### Client Defines Outcomes — Consultant Defines Methods  
+Clients may specify:
 
-5. Communication Policy
+- goals  
+- performance requirements  
+- integration constraints  
+- datasets  
+- deliverables  
 
-**Professional Communication Standards:**
-	•	Communication is asynchronous unless a meeting is scheduled.
-	•	All project-related communication should be professional and focused on deliverables.
-	•	I reserve the right to choose not to participate in non-professional or invasive discussions.
-	•	Personal life, identity, and non-work topics are not part of the engagement.
-	•	Harassment, unprofessional conduct, or boundary crossing terminates the contract immediately.
+However, clients **may not** dictate:
 
-**For Organizations:**
-	•	Primary contact should be through designated project managers or authorized representatives.
-	•	Meeting schedules and availability are defined in the SOW.
-	•	Urgent requests outside normal hours require prior arrangement or retainer agreements.
+- my IDE/editor  
+- my operating system  
+- my libraries or tools  
+- my workflow or coding patterns  
+- internal architecture choices  
+- work hours or scheduling  
+- step-by-step implementation details  
 
-⸻
+I am contracted for expertise and outcomes, not supervised labor.
 
-6. Ownership & IP
+### No Micromanagement  
+Attempts to micromanage implementation details, override technical decisions, or impose tool restrictions may:
 
-Ownership depends on the contract.
-By default (per Master Consulting Agreement):
-	•	Consultant grants Client a non-exclusive, non-transferable, internal-use-only license to deliverables created during the engagement
-	•	Consultant retains ownership of all deliverables, underlying methodologies, generalized techniques, architectural frameworks, reusable components, and research workflows
-	•	Pre-existing IP (including Aurora-v2, pipelines, models, C++ engines) remains exclusively owned by Consultant
-	•	Full ownership transfer or exclusive licensing must be negotiated explicitly in the SOW
+- delay the project,  
+- require revising the SOW, or  
+- terminate the engagement if misalignment persists.
 
-This protects both parties and allows Consultant to reuse methodologies across engagements.
+### Rationale  
+This policy ensures:
 
-⸻
+- consistent engineering standards  
+- proper use of established workflows  
+- safe and leakage-free ML practices  
+- IP protection  
+- timely delivery and high-quality outcomes  
 
-7. Confidentiality
+Clients hire me for my independent judgment as a specialist.
 
-All client materials, datasets, and proprietary information are confidential under standard NDAs or contract clauses.
+---
 
-I do not share or reuse client materials unless contractually permitted.
+## 5. Communication Policy
 
-⸻
+### Professional Communication  
+- Communication is asynchronous unless a meeting is scheduled.  
+- All communication must remain professional and focused on deliverables.  
+- I do not engage in invasive, personal, or non-work topics.  
+- Harassment or unprofessional behavior terminates the contract immediately.
 
-8. Termination
+### For Organizations  
+- Communication should be through designated project managers or authorized representatives.  
+- Meeting cadence is defined in the SOW.  
+- Urgent requests outside standard availability require a retainer.
+
+---
+
+## 6. Ownership & IP
+
+Unless stated otherwise in the MSA/SOW:
+
+- Client receives a **non-exclusive, non-transferable, internal-use license** to deliverables created during the engagement.  
+- Consultant retains ownership of:
+  - methodologies  
+  - architectural frameworks  
+  - reusable components  
+  - generalized research workflows  
+- All pre-existing IP (including Aurora-v2, pipelines, C++ engines) remains fully owned by Consultant.  
+- Exclusive licensing or full ownership transfer must be explicitly negotiated.
+
+This protects both parties and ensures sustainable development practices.
+
+---
+
+## 7. Confidentiality
+
+All client materials, datasets, credentials, and proprietary information are confidential under standard NDAs or contract clauses.
+
+No client data or proprietary material will be reused or shared unless explicitly permitted.
+
+---
+
+## 8. Termination
 
 Either party may terminate:
-	•	with 14 days' written notice, or
-	•	immediately in case of material breach
 
-Client is responsible for all work completed and billed hours up to the termination date.
-Retainers are non-refundable unless stated otherwise in the SOW.
+- with **14 days’ written notice**, or  
+- **immediately** in case of material breach  
 
-⸻
+Client is responsible for all billed hours up to the termination date.  
+Retainers are non-refundable unless the SOW states otherwise.
 
-9. Contact
+---
 
-**For Organizations Seeking Consulting Services:**
+## 9. Contact
 
+**For Consulting Inquiries:**  
 Email: jenn.lewis5789@gmail.com  
-Subject: Consulting Inquiry — [Your Organization Name]
+Subject: **Consulting Inquiry — [Organization Name]**
 
-**Initial Inquiry Should Include:**
-	•	Organization name and type
-	•	Brief description of project or requirements
-	•	Preferred engagement timeline
-	•	Any specific technical constraints or requirements
+Initial inquiry should include:
 
-I respond within 2-3 business days. Please note that I conduct all initial intake via email or asynchronous communication; I do not schedule unscheduled phone calls.
+- organization name and type  
+- brief project description  
+- preferred engagement timeline  
+- relevant technical constraints  
+
+Responses are typically provided within 2–3 business days.  
+Initial intake is conducted asynchronously; no unscheduled phone calls.
 
 ---
 
 ## Related Documents
 
-- [`CONSULTING.md`](CONSULTING.md) — Overview of services and engagement process
-- [`MASTER_CONSULTING_AGREEMENT.md`](MASTER_CONSULTING_AGREEMENT.md) — Standard agreement framework
-- [`STATEMENT_OF_WORK.md`](STATEMENT_OF_WORK.md) — SOW template
+- `CONSULTING.md` — High-level overview of services  
+- `MASTER_CONSULTING_AGREEMENT.md` — Contract framework  
+- `STATEMENT_OF_WORK.md` — SOW template  
